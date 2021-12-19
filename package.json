@@ -26,7 +26,7 @@
             {
                 "label": "FEA DARK THEME",
                 "uiTheme": "vs-dark",
-                "path": "./themes/FEA DARK THEME-color-theme.json"
+                "path": "./themes/fea-dark-color-theme"
             }
         ]
     }
