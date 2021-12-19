@@ -5,6 +5,10 @@
     "version": "0.0.1",
     "icon":"./logo.png",
     "publisher": "FADYEHABAMER",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fadyehabamer/VSCode-Theme"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
