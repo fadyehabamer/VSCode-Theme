@@ -1,3 +1,7 @@
+<p align='center'>
+  <img src='BEST VS CODE THEME.png'>
+</p>
+
 ## Say Hi To This Extension
 
 ### Follow me on : 
