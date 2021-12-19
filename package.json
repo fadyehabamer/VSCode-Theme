@@ -1,5 +1,5 @@
 {
-    "name": "FADY EHAB AMER",
+    "name": "FADYEHABAMER",
     "displayName": "FADY EHAB AMER DARK THEME",
     "description": "world's [0] VS Code Dark theme",
     "version": "0.0.1",
@@ -26,7 +26,7 @@
             {
                 "label": "FEA DARK THEME",
                 "uiTheme": "vs-dark",
-                "path": "./themes/fea-dark-color-theme"
+                "path": "themes/fea-dark-color-theme"
             }
         ]
     }
