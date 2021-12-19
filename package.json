@@ -3,7 +3,7 @@
     "displayName": "FADY EHAB AMER DARK THEME",
     "description": "world's [0] VS Code Dark theme",
     "version": "0.0.1",
-    "icon":"./logo.png",
+    "icon":"logo.png",
     "publisher": "FADYEHABAMER",
     "repository": {
         "type": "git",
