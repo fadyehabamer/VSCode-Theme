@@ -1,0 +1,29 @@
+{
+    "name": "FEA",
+    "displayName": "FADY EHAB AMER DARK THEME",
+    "description": "world's [0] VS Code Dark theme",
+    "version": "0.0.1",
+    "icon":"./logo.png",
+    "publisher": "FADYEHABAMER",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "keywords": [
+        "fady ehab amer",
+        "fady Dark theme",
+        "FADY EHAB AMER"
+    ]
+    ,
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "FEA DARK THEME",
+                "uiTheme": "vs-dark",
+                "path": "./themes/FEA DARK THEME-color-theme.json"
+            }
+        ]
+    }
+}
