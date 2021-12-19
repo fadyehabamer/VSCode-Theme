@@ -12,4 +12,4 @@
 > www.github.com/fadyehabamer
 
 #### linked In:
-> www.linkedin.com/fadyehabamer
+> www.linkedin.com/in/fadyehabamer
