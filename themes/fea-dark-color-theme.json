@@ -123,7 +123,7 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#5a5a5a"
+        "foreground": "#858585"
       }
     },
     {
@@ -1706,7 +1706,7 @@
         "beginning.punctuation.definition.list.markdown.xi"
       ],
       "settings": {
-        "foreground": "#5a5a5a"
+        "foreground": "#858585"
       }
     },
     {
@@ -1751,7 +1751,7 @@
         "punctuation.definition.tag.xi"
       ],
       "settings": {
-        "foreground": "#5a5a5a"
+        "foreground": "#858585"
       }
     },
     {
@@ -1790,14 +1790,14 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#5a5a5a"
+        "foreground": "#858585"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Quote",
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#5a5a5a"
+        "foreground": "#858585"
       }
     },
     {
@@ -1917,7 +1917,7 @@
     "textLink.foreground": "#3f91f0",
     "editor.background": "#141619",
     "editor.foreground": "#ffffff",
-    "editorLineNumber.foreground": "#515151",
+    "editorLineNumber.foreground": "#6e6e6e",
     "editorCursor.foreground": "#ffffff",
     "editorCursor.background": "#000000",
     "editor.selectionBackground": "#1d4560",
@@ -1964,7 +1964,7 @@
     "editorGutter.addedBackground": "#bbbfdef3",
     "editorGutter.deletedBackground": "#ff000c",
     "editorGutter.foldingControlForeground": "#ffffff",
-    "editorCodeLens.foreground": "#5a5a5a",
+    "editorCodeLens.foreground": "#858585",
     "editorGroup.border": "#47474750",
     "diffEditor.insertedTextBackground": "#294140",
     "diffEditor.removedTextBackground": "#e8595933",
