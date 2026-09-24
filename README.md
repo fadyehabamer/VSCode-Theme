@@ -14,6 +14,33 @@ And I hope it will be suitable for you too
 
 <hr>
 
+### Installation
+
+**From the Marketplace**
+
+1. Open VS Code and go to the Extensions view (`Ctrl+Shift+X` / `Cmd+Shift+X`).
+2. Search for **FEA DARK THEME** (extension ID `FADYEHABAMER.FADYEHABAMER`) and click **Install**.
+3. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`), run **Preferences: Color Theme** and pick **FEA DARK THEME**.
+
+Or from a terminal:
+
+```sh
+code --install-extension FADYEHABAMER.FADYEHABAMER
+```
+
+**From source**
+
+```sh
+git clone https://github.com/fadyehabamer/VSCode-Theme.git
+cd VSCode-Theme
+npx @vscode/vsce package --no-dependencies
+code --install-extension FADYEHABAMER-*.vsix
+```
+
+To try changes without installing, open this folder in VS Code and press `F5` to launch an Extension Development Host with the theme loaded.
+
+<hr>
+
 ### Here, Some ScreenShots of this Extension View 
 For : HTML , CSS and JAVASCRIPT
 <hr>
