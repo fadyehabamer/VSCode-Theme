@@ -5,6 +5,11 @@
     "version": "1.1.2",
     "icon": "logo.png",
     "publisher": "FADYEHABAMER",
+    "license": "MIT",
+    "galleryBanner": {
+        "color": "#141619",
+        "theme": "dark"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/fadyehabamer/VSCode-Theme"
