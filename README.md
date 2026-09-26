@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='BEST VS CODE THEME.png'>
+  <img src='banner.png' alt='FEA Dark Theme'>
 </p>
 
 ## Say Hi To the Best Theme Extension EVER
