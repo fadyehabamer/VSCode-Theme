@@ -14,6 +14,10 @@
         "type": "git",
         "url": "https://github.com/fadyehabamer/VSCode-Theme"
     },
+    "homepage": "https://github.com/fadyehabamer/VSCode-Theme#readme",
+    "bugs": {
+        "url": "https://github.com/fadyehabamer/VSCode-Theme/issues"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
